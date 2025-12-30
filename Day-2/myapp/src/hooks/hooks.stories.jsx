@@ -23,3 +23,4 @@ export const FetchExample = () => <FetchDemo url="https://jsonplaceholder.typico
 export const WindowSizeExample = () => <WindowSizeDemo />;
 export const OutsideClickExample = () => <UseonOutsideClickDemo />;
 export const ThemeExample = () => <ThemeDemo />;
+
